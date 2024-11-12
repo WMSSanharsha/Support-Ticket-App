@@ -34,6 +34,13 @@ A full-stack support ticket application (MERN) that allows users to create, view
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 
+![Screenshot 2024-11-12 125119](https://github.com/user-attachments/assets/0d63d302-09a5-4629-8148-b26e7838734e)
+![Screenshot 2024-11-12 125127](https://github.com/user-attachments/assets/01c3c92b-edeb-42f4-a550-256dc3a8d9b9)
+![Screenshot 2024-11-12 125137](https://github.com/user-attachments/assets/55ae6c4b-cedc-4525-8e33-2723f837f5d3)
+![Screenshot 2024-11-12 125146](https://github.com/user-attachments/assets/0ec7070d-4c4e-4bde-91e8-199f7de34cc0)
+![Screenshot 2024-11-12 125154](https://github.com/user-attachments/assets/71239692-ff16-4ff1-a9b1-f944b0ee963f)
+
+
 # API Endpoints
 
 - **POST** `/api/users` - Register a new user
